@@ -1,66 +1,28 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## PROJECT  TITLE : ES TEH SOLO
+Alasan saya memilih Es Teh Solo, dikarena saya terinspirasi dengan penjualan Es Teh Solo yang ada di depan kampus dan saya tertarik untuk membuat website Es Teh Solo. Selain itu, industri penjualan teh ini memiliki inovasi dan potensi pasar yang besar.
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<hr>
 
-## About Laravel
+<button>DEMO</button>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Pada saat membuka website Es Teh Solo akan muncul tampilan awal yaitu selamat datang (beranda) yang dilengkapi dengan 3 navbar yaitu:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+**1. Beranda**
+![127 0 0 1_8000_ (1)](https://github.com/erniveronica/2109116029_Posstest1_Laravel/assets/119858991/cd806a16-55f1-4f89-82d1-71833ee0df97)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- Pada tampilan awal (beranda) terdapat tampilan selamat datang dengan tampilan gambar yang berkaitan dengan Es Teh Solo, dan jelajahi menu. Apabila bagian jelajahi menu diklik maka akan mengakses halaman menu Es Teh Solo.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+**2. Tentang**
+![127 0 0 1_8000_tentang](https://github.com/erniveronica/2109116029_Posstest1_Laravel/assets/119858991/173634d2-a760-44bb-9b53-7f33eca1d910)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+- Pada tampilan tentang terdapat gambar logo, sejarah singkat, dan visi dari Es Teh Solo.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+**3. Menu**
+![127 0 0 1_8000_menu](https://github.com/erniveronica/2109116029_Posstest1_Laravel/assets/119858991/ad437b75-ae36-4740-9a55-63e2a26db803)
 
-## Laravel Sponsors
+- Pada tampilan menu terdapat menu yang tersedia pada Es Teh Solo yang dilengkapi dengan gambar dan deskripsi pada setiap menu yang ada.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<hr>
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<i>2109116029 / Erni Veronica Sidabutar / SI A</i>
