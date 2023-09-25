@@ -3,7 +3,7 @@ Alasan saya memilih Es Teh Solo, dikarena saya terinspirasi dengan penjualan Es 
 
 <hr>
 
-<button>DEMO</button>
+####DEMO
 
 Pada saat membuka website Es Teh Solo akan muncul tampilan awal yaitu selamat datang (beranda) yang dilengkapi dengan 3 navbar yaitu:
 
